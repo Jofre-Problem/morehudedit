@@ -39,15 +39,36 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont18Shadow"
-		"fgcolor"   								"221 183 190 255" 
+		"font"										"edit20"
+		"fgcolor"   								"237 194 201 255" 
 
 		"pin_to_sibling"							""
 		"pin_to_sibling_minmode"					""
 		"pin_corner_to_sibling_minmode"				"PIN_CENTER_TOP"
 		"pin_to_sibling_corner_minmode"				"PIN_CENTER_TOP"
 	}
+	"ChargeLabels"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"ChargeLabels"
+		"xpos"										"cs-0.5+1"
+		"ypos"										"c51"
+		"zpos"										"2"
+		"wide"										"100"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+		"proportionaltoparent"						"1"
+		"labelText"									"#TF_UberchargeMinHUD"
+		"textAlignment"								"center"
+		"font"										"edit20"
+		"fgcolor"   								"black" 
 
+		"pin_to_sibling"							""
+		"pin_to_sibling_minmode"					""
+		"pin_corner_to_sibling_minmode"				"PIN_CENTER_TOP"
+		"pin_to_sibling_corner_minmode"				"PIN_CENTER_TOP"
+	}
 	//==================================================================================================================================================
 	// UBERCHARGE METER
 	//==================================================================================================================================================

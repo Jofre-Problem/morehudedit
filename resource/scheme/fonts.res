@@ -16,7 +16,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -25,7 +25,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -34,7 +34,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -43,7 +43,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"11"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -53,7 +53,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -62,7 +62,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -72,7 +72,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -81,7 +81,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"14"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -91,16 +91,25 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
 		}
+		"custom16"
+		{
+			"1"
+			{
+				"name"										"Rubik Numbers"
+				"tall"										"16"
+				"antialias" 								"1"
+			}
+		}		
 		"m0refont16Shadow"
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"16"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -110,7 +119,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -119,7 +128,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"18"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -129,7 +138,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"18"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -149,7 +158,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"20"
 				"antialias" 								"1"
 			}
@@ -158,7 +167,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"20"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -168,7 +177,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"20"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -178,7 +187,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"22"
 				"antialias" 								"1"
 			}
@@ -187,7 +196,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"22"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -197,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"22"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -207,7 +216,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -216,7 +225,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"24"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -226,7 +235,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"24"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -260,6 +269,15 @@
 				"antialias" 								"1"
 			}
 		}	
+		"edit12" // pin
+		{
+			"1"
+			{
+				"name"										"Rubik Numbers"
+				"tall"										"12"
+				"antialias" 								"1"
+			}
+		}			
 		"edit20" // pin
 		{
 			"1"
@@ -268,7 +286,26 @@
 				"tall"										"20"
 				"antialias" 								"1"
 			}
-		}					
+		}	
+		"edit24" // pin
+		{
+			"1"
+			{
+				"name"										"Rubik Numbers"
+				"tall"										"24"
+				"antialias" 								"1"
+			}
+		}
+		"edit24s" // pin
+		{
+			"1"
+			{
+				"name"										"Rubik Numbers"
+				"tall"										"24"
+				"antialias" 								"1"
+				shadow 1
+			}
+		}													
 		"edit26" // pin
 		{
 			"1"
@@ -282,7 +319,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"26"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -292,7 +329,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"28"
 				"antialias" 								"1"
 			}
@@ -301,7 +338,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"28"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -311,7 +348,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -320,7 +357,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"30"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -330,7 +367,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"30"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -350,7 +387,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"32"
 				"antialias" 								"1"
 			}
@@ -359,7 +396,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"32"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -369,7 +406,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"34"
 				"antialias" 								"1"
 			}
@@ -378,7 +415,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -387,7 +424,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"36"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -397,7 +434,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"38"
 				"antialias" 								"1"
 			}
@@ -406,7 +443,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"40"
 				"antialias" 								"1"
 			}
@@ -415,7 +452,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"42"
 				"antialias" 								"1"
 			}
@@ -424,7 +461,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"44"
 				"antialias" 								"1"
 			}
@@ -433,7 +470,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"46"
 				"antialias" 								"1"
 			}
@@ -442,7 +479,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"46"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -452,7 +489,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"48"
 				"antialias" 								"1"
 			}
@@ -461,7 +498,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"48"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -471,7 +508,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"50"
 				"antialias" 								"1"
 			}
@@ -480,7 +517,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"52"
 				"antialias" 								"1"
 			}
@@ -489,7 +526,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"54"
 				"antialias" 								"1"
 			}
@@ -498,7 +535,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"56"
 				"antialias" 								"1"
 			}
@@ -507,7 +544,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"58"
 				"antialias" 								"1"
 			}
@@ -516,7 +553,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"60"
 				"antialias" 								"1"
 			}
@@ -525,7 +562,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"62"
 				"antialias" 								"1"
 			}
@@ -534,7 +571,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"64"
 				"antialias" 								"1"
 			}
@@ -543,7 +580,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"66"
 				"antialias" 								"1"
 			}
@@ -552,7 +589,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"68"
 				"antialias" 								"1"
 			}
@@ -561,7 +598,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"70"
 				"antialias" 								"1"
 			}
@@ -570,56 +607,56 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"72"
 				"yres"										"400 500"
 				"antialias"									"1"
 			}
 			"2"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"88"
 				"yres"										"501 600"
 				"antialias"									"1"
 			}
 			"3"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"95"
 				"yres"										"601 679"
 				"antialias"									"1"
 			}
 			"4"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"103"
 				"yres"										"680 720"
 				"antialias"									"1"
 			}
 			"5"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"110"
 				"yres"										"721 799"
 				"antialias"									"1"
 			}
 			"6"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"117"
 				"yres"										"800 899"
 				"antialias"									"1"
 			}
 			"7"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"123"
 				"yres"										"900 1030"
 				"antialias"									"1"
 			}
 			"8"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"130"
 				"yres"										"1031 1199"
 				"antialias"									"1"
@@ -1303,7 +1340,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1313,7 +1350,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"24"
 				"italic"									"1"
 				"range"										"0x0000 0x017F"
@@ -1324,7 +1361,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1334,7 +1371,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"24"
 				"italic"									"1"
 				"range"										"0x0000 0x017F"
@@ -1345,7 +1382,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Bold"
+				"name"										"heebo"
 				"tall"										"16"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -2788,7 +2825,7 @@
 		"142"
 		{
 			"font"				"resource/scheme/fonts/heebo.ttf"
-			"name"				"Heebo Bold"
+			"name"				"heebo"
 		}	
 		"143"
 		{

@@ -2,19 +2,20 @@
 {
 	"TimeBG"
 	{
-		"ControlName"	    						"EditablePanel"
+		"ControlName"	    						"imagePanel"
 		"fieldName"	      							"TimeBG"
 		"xpos"		        						"cs-0.5"
-		"ypos"		        						"0"
+		"ypos"		        						"-1"
 		"zpos"		        						"1"
 		"wide"		        						"f0"
-		"tall"		         						"14"
+		"tall"		         						"18"
 		"visible"	        						"1"
 		"enabled"	        						"1"
 		"proportionaltoparent"	        			"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"BlackDarkTransparent"
+		scaleimage 1
+		"image"							"replay/thumbnails/panels/material_transparent_black_50"
 	}
 	"TimePanelBG"
 	{
@@ -24,7 +25,7 @@
 		"ypos"		        						"14"
 		"zpos"		        						"2"
 		"wide"		        						"f0"
-		"tall"		         						"2"
+		"tall"		         						"0"
 		"visible"	        						"1"
 		"enabled"	        						"1"
 		"proportionaltoparent"	        			"1"
