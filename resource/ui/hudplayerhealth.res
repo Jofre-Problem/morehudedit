@@ -111,7 +111,7 @@
 		"zpos"	    		         				"5"
 		"wide"		    	         				"150"
 		"wide_minbad"		    	         		"99"
-		"tall"		    	         				"80"
+		"tall"		    	         				"0"
 		"tall_minbad"		    	         		"39"
 		"visible"	    	         				"1"
 		"enabled"	    	         				"1"
