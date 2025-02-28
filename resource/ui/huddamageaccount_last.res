@@ -3,11 +3,11 @@
 	"DamageAccountValue"
 	{
 		"visible"									"1"
-		"visible_minmode"							"0"
+		"visible_minbad"							"0"
 	}
 	"DamageAccountValueShadow"
 	{
 		"visible"									"1"
-		"visible_minmode"							"0"
+		"visible_minbad"							"0"
 	}
 }

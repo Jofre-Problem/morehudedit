@@ -5,9 +5,9 @@
 	"HudItemEffectMeter"
 	{
 		"ypos"										"rs1-50"
-		"ypos_minmode"								"rs1-50"
+		"ypos_minbad"								"rs1-50"
 		"tall"										"28"
-		"tall_minmode"								"22"
+		"tall_minbad"								"22"
 	}
 
 	"ItemEffectMeterLabel"
@@ -18,7 +18,7 @@
 	"ItemEffectMeter"
 	{
 		"ypos"										"18"
-		"ypos_minmode"								"rs1-8"
+		"ypos_minbad"								"rs1-8"
 	}
 
 	"ItemEffectMeterCount"
@@ -30,12 +30,12 @@
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"18"
-		"tall_minmode"								"12"
+		"tall_minbad"								"12"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"center"
 		"font"										"m0refont16"
-		"font_minmode"								"m0refont12"
+		"font_minbad"								"m0refont12"
 	}
 }

@@ -5,9 +5,9 @@
 	"HudWeaponAmmo"
 	{
 		"xpos"										"0"
-		"xpos_minmode"								"0"
+		"xpos_minbad"								"0"
 		"ypos"										"0"
-		"ypos_minmode"								"0"
+		"ypos_minbad"								"0"
 		"wide"										"f0"
 		"tall"										"480"
 	}
@@ -20,28 +20,28 @@
 		"tall"										"40"
 
 		"blue_active_xpos"							"0"
-		"blue_active_xpos_minmode"					"0"
+		"blue_active_xpos_minbad"					"0"
 
 		"red_active_xpos"							"44"
-		"red_active_xpos_minmode"					"44"
+		"red_active_xpos_minbad"					"44"
 	}
 
 	"HudItemEffectMeter"
 	{
 		"xpos"										"c-37"
-		"xpos_minmode"								"c-37"
+		"xpos_minbad"								"c-37"
 		"ypos"										"r52"
 		"wide"										"100"
-		"wide_minmode"								"100"
+		"wide_minbad"								"100"
 		"tall"										"50"
 	}
 
 	"HudMedicCharge"
 	{
 		"xpos"										"0"
-		"xpos_minmode"								"0"
+		"xpos_minbad"								"0"
 		"ypos"										"0"
-		"ypos_minmode"								"0"
+		"ypos_minbad"								"0"
 		"wide"										"f0"
 		"tall"										"480"
 	}
@@ -49,12 +49,12 @@
 	"HudDemomanCharge"
 	{
 		"xpos"										"0"
-		"xpos_minmode"								"0"
+		"xpos_minbad"								"0"
 		"ypos"										"0"
-		"ypos_minmode"								"0"
+		"ypos_minbad"								"0"
 		"zpos"										"1"
 		"wide"										"f0"
-		"wide_minmode"								"f0"
+		"wide_minbad"								"f0"
 		"tall"										"480"
 	}
 
@@ -62,7 +62,7 @@
 	{
 		"xpos"         								"c-100"
 		"ypos"										"rs1-40"
-		"ypos_minmode"								"c53"
+		"ypos_minbad"								"c53"
 		"wide"										"200"
 		"tall"  									"50"
 	}
@@ -70,9 +70,9 @@
 	"CHealthAccountPanel"
 	{
 		"xpos"										"0"
-		"xpos_minmode"								"0"
+		"xpos_minbad"								"0"
 		"ypos"										"456"
-		"ypos_minmode"								"456"
+		"ypos_minbad"								"456"
 		"wide"										"f0"
 		"tall"  									"24"
 	}
@@ -108,24 +108,24 @@
 	"CMainTargetID"
 	{
 		"ypos"										"c85"
-		"ypos_minmode"								"c30"
+		"ypos_minbad"								"c30"
 		"tall"	 									"30"
-		"tall_minmode"	 							"30"
+		"tall_minbad"	 							"30"
 	}
 
 	"CSpectatorTargetID"
 	{
 		"ypos"										"c100"
 		"tall"	 									"30"
-		"tall_minmode"	 							"30"
+		"tall_minbad"	 							"30"
 	}
 
 	"CSecondaryTargetID"
 	{
 		"ypos"										"c122"
-		"ypos_minmode"								"c85"
+		"ypos_minbad"								"c85"
 		"tall"	 									"30"
-		"tall_minmode"	 							"30"
+		"tall_minbad"	 							"30"
 	}
 
 	"BuildingAnchor"
@@ -165,9 +165,9 @@
 	"CurrencyStatusPanel"
 	{
 		"xpos"										"c-204"
-		"xpos_minmode"								"c-125"
+		"xpos_minbad"								"c-125"
 		"ypos"										"rs1"
-		"ypos_minmode"								"c120"
+		"ypos_minbad"								"c120"
 		"wide"										"60"
 		"tall"										"18"
 	}
@@ -200,7 +200,7 @@
 	"HudCloseCaption"
 	{
 		"xpos"										"c-215"
-		"xpos_minmode"								"c-35"
+		"xpos_minbad"								"c-35"
 		"ypos"										"r95"
 		"wide"										"150"
 		"tall"										"50"
@@ -310,9 +310,9 @@
 	"HudDemomanPipes"
 	{
 		"xpos"										"0"
-		"xpos_minmode"								"0"
+		"xpos_minbad"								"0"
 		"ypos"										"0"
-		"ypos_minmode"								"0"
+		"ypos_minbad"								"0"
 		"wide"										"f0"
 		"tall"										"480"
 	}
@@ -368,7 +368,7 @@
 	"HudBowCharge"
 	{
 		"wide"										"0"
-		"wide_minmode"								"0"
+		"wide_minbad"								"0"
 	}
 	"StatPanel"
 	{

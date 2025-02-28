@@ -129,7 +129,7 @@
 	"Minmode"
 	{
 		"label"										"7"
-		"command"									"engine toggle cl_hud_minmode"
+		"command"									"engine toggle cl_hud_minbad"
 		"tooltip"									"Toggle Minmode"
 		"OnlyInGame"								"1"
 	}
