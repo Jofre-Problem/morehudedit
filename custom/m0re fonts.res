@@ -609,7 +609,18 @@ Scheme
 				"additive"									"0"
 				"antialias" 								"1"
 			}
-		}		
+		}	
+
+		edit_24outline
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"24"
+				"outline"									"1"
+				"antialias" 								"1"
+			}
+		}				
 		edit_47
 		{
 			"1"
