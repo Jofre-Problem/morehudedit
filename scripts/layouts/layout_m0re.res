@@ -14,16 +14,16 @@
 
 	"HudKothTimeStatus"
 	{
-		"xpos"										"cs-0.5"
+		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"84"
-		"tall"										"40"
+		"wide"										"f0"
+		"tall"										"160"
 
-		"blue_active_xpos"							"0"
-		"blue_active_xpos_minbad"					"0"
+		"blue_active_xpos"							"3"
+		"blue_active_xpos_minmode"					"3"
 
-		"red_active_xpos"							"44"
-		"red_active_xpos_minbad"					"44"
+		"red_active_xpos"							"3"
+		"red_active_xpos_minmode"					"3"
 	}
 
 	"HudItemEffectMeter"
