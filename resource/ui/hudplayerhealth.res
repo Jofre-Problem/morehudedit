@@ -78,8 +78,8 @@
 		"enabled"	  		         				"1"
 		"labelText" 		         				"%Health%"
 		"textAlignment"         				 	"center"
-		"font"                   				 	"edit26"
-		"font_minbad"                   			"edit26"
+		"font"                   				 	"edit_47"
+		"font_minbad"                   			"edit_47"
 		"fgcolor"	    	         				"Health Numbers"
 
 		"pin_to_sibling"							"HealthAnchor"
@@ -101,8 +101,8 @@
 		"enabled"	    	         				"1"
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"
-		"font"                   				 	"edit26"
-		"font_minbad"                   			"edit26"
+		"font"                   				 	"edit_47"
+		"font_minbad"                   			"edit_47"
 		"fgcolor"	     	         				"Black"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"
