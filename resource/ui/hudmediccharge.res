@@ -40,7 +40,7 @@
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
 		"font"										"edit20"
-		"fgcolor"   								"237 194 201 255" 
+		"fgcolor"   								"116 241 197 255" 
 
 		"pin_to_sibling"							""
 		"pin_to_sibling_minbad"					""

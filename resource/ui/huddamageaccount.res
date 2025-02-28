@@ -1,5 +1,5 @@
-#base "HudDamageAccount_Last.res"
-#base "HudDamageAccount_LastDamage.res"
+//#base "HudDamageAccount_Last.res"
+//#base "HudDamageAccount_LastDamage.res"
 
 "Resource/UI/HudDamageAccount.res"
 {

@@ -151,6 +151,7 @@ Scheme
 				"tall"										"12"
 				"additive"									"0"
 				"antialias" 								"1"
+				"weight" "0"
 			}
 		}
 		M0refont12Bold
@@ -588,12 +589,33 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
+		edit_16
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"28"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}		
+
+		edit_24
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"24"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}		
 		edit_47
 		{
 			"1"
 			{
 				"name"										"Catamaran SemiBold"
-				"tall"										"50"
+				"tall"										"45"
 				"additive"									"0"
 				"antialias" 								"1"
 			}

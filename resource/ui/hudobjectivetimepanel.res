@@ -1,91 +1,73 @@
 "Resource/UI/HudObjectiveTimePanel.res"
 {
-	"TimeBG"
-	{
-		"ControlName"	    						"imagePanel"
-		"fieldName"	      							"TimeBG"
-		"xpos"		        						"cs-0.5"
-		"ypos"		        						"-1"
-		"zpos"		        						"1"
-		"wide"		        						"f0"
-		"tall"		         						"18"
-		"visible"	        						"1"
-		"enabled"	        						"1"
-		"proportionaltoparent"	        			"1"
-		"paintbackground"							"1"
-		"paintbackgroundtype"						"0"
-		scaleimage 1
-		"image"							"replay/thumbnails/panels/material_transparent_black_50"
-	}
 	"TimePanelBG"
 	{
-		"ControlName"	    						"CTFImagePanel"
-		"fieldName"	      							"TimePanelBG"
-		"xpos"		        						"cs-0.5"
-		"ypos"		        						"14"
-		"zpos"		        						"2"
-		"wide"		        						"f0"
-		"tall"		         						"0"
-		"visible"	        						"1"
-		"enabled"	        						"1"
-		"proportionaltoparent"	        			"1"
-		"image"			        					"../hud/color_panel_blu"
-		"scaleImage"	    						"1"
-		"src_corner_height"	 						"10"
-		"src_corner_width"	 						"10"
-		"draw_corner_width"						 	"0"
-		"draw_corner_height" 						"0"
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"TimePanelBG"
+		"xpos"										"12"
+		"ypos"										"4"
+		"zpos"										"2"
+		"wide"										"5"
+		"tall"										"18"
+		"visible"									"1"
+		"enabled"									"1"
+
+		"image"										"../HUD/tournament_panel_red"
+		"scaleImage"								"1"
+		"teambg_1"									"../HUD/tournament_panel_red"
+		"teambg_2"									"../HUD/tournament_panel_red"
+		"teambg_3"									"../HUD/tournament_panel_blu"
+
+
+		"src_corner_height"	"4"				// pixels inside the image
+		"src_corner_width"	"4"
+		
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 	}
 
 	"ServerTimeLimitLabel"
 	{
-		"ControlName" 								"CExLabel"
-		"fieldName" 								"ServerTimeLimitLabel"
-		"xpos" 										"cs-0.5"
-		"ypos" 										"rs1-12"
-		"zpos" 										"3"
-		"wide" 										"f0"
-		"tall"										"12"
-		"visible" 									"1"
-		"enabled" 									"1"
-		"proportionaltoparent" 						"1"
+		"ControlName"								"CExLabel"
+		"fieldName"									"ServerTimeLimitLabel"
+		"xpos"										"20"
+		"ypos"										"20"
+		"zpos"										"3"
+		"wide"										"50"
+		"tall"										"15"
+		"visible"									"1"
+		"enabled"									"1"
 		"labelText"									"%servertimeleft%"
-		"textAlignment"								"center"
-		"font" 										"HudFontSmallestShadow"
+		"textAlignment"								"west"
+		"wrap"										"0"
+		"font"										"m0refont12"
 		"fgcolor"									"White"
+
+		"if_mvm"
+		{
+			"visible"								"0"
+		}
 	}
 
 	"OvertimeLabel"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"OvertimeLabel"
-		"xpos"										"cs-0.5"
-		"ypos"										"0"
-		"zpos"										"4"
-		"wide"										"f0"
-		"tall"										"16"
+		"xpos"										"20"
+		"ypos"										"14"
+		"zpos"										"5"
+		"wide"										"78"
+		"tall"										"19"
 		"visible"									"0"
 		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"use_proportional_insets"					"1"
-		"labelText"									"#game_Overtime"
-		"textAlignment"								"center"
 		"AllCaps"									"1"
-		"font"										"ItemFontNameSmallest"
-		"fgcolor"									"Black"
-		"paintbackground"							"1"
-		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"255 160 100 255"
+		"labelText"									"#game_Overtime"
+		"textAlignment"								"west"
+		"font"										"m0refont12"
 	}
 
 
-
-
-
-	//==================================================================================================================================================
-	// REMOVED ELEMENTS
-	//==================================================================================================================================================
-
+	//REMOVED
 	"TimePanelProgressBar"
 	{
 		"ControlName"								"CTFProgressBar"
@@ -136,8 +118,8 @@
 	}
 	"ServerTimeLimitLabelBG"
 	{
-		"ControlName" 								"ImagePanel"
-		"fieldName" 								"ServerTimeLimitLabelBG"
-		"xpos" 										"9999"
+		"ControlName"								"CTFImagePanel"
+		"fieldName"									"ServerTimeLimitLabelBG"
+		"xpos"										"9999"
 	}
 }

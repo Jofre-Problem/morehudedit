@@ -6,25 +6,25 @@
 		// INGAME COLORS
 		//=============================================================================
 
-		"Health Numbers"									"250 252 255 255"
+		"Health Numbers"									"116 241 197 255"
 
 		"Health Buff"										"20 160 130 255"
 		"Health Buff Target"								"50 180 150 255"
 		"Health Buff Spec"									"20 160 130 255"
 		"Health Buff Killer"								"20 160 130 255"
 
-		"Health Hurt"										"255 0 0 255"
+		"Health Hurt"										"230 90 111 255"
 		"Health Hurt Target"								"250 252 255 255"
 		"Health Hurt Spec"									"255 160 100 255"
-		"Health Hurt Killer"								"255 0 0 255"
+		"Health Hurt Killer"								"230 90 111 255"
 
 		"Ammo In Clip"										"250 252 255 255"
 		"Ammo In Reserve"									"250 252 255 255"
 		"Ammo No Clip"										"250 252 255 255"
 
-		"Ammo In Clip Low"									"255 0 0 255"
-		"Ammo In Reserve Low"								"255 0 0 255"
-		"Ammo No Clip Low"									"255 0 0 255"
+		"Ammo In Clip Low"									"230 90 111 255"
+		"Ammo In Reserve Low"								"230 90 111 255"
+		"Ammo No Clip Low"									"230 90 111 255"
 
 		"Ubercharge"										"250 252 255 255"
 		"Ubercharge Full"									"20 160 130 255"

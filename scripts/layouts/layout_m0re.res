@@ -180,8 +180,8 @@
 		"tall"	 									"468"
 
 		"MaxDeathNotices" 							"12"
-		"IconScale"	  								"0.35"
-		"LineHeight"	  							"16"
+		"IconScale"	  								"0.5"
+		"LineHeight"	  							"15"
 		"LineSpacing"	 							"2"
 		"CornerRadius"	  							"0"
 		"RightJustify"	  							"1"
